@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584154512107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "482443068",
+    "id" : "C80E5FA9",
+    "lastKnownWriteTime" : 1584152374,
+    "last_content_update" : 1584152374,
+    "path" : "C:/Users/Cooper97/Desktop/tidyverse master/matser-shiny/shiny作品.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "442,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

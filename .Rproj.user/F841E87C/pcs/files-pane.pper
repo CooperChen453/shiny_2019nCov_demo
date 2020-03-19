@@ -1,0 +1,9 @@
+{
+    "path" : "/cloud/project",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584154420695.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2516082711",
+    "id" : "1E4AB494",
+    "lastKnownWriteTime" : 1584154576,
+    "last_content_update" : 1584154576934,
+    "path" : "C:/Users/Cooper97/Desktop/shiny_2019nCov/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "139,65",
+        "scrollLine" : "126"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
